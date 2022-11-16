@@ -1,7 +1,7 @@
 # Je suis AurelTest !
 😄 Aurélien, 25 ans, amoureux d'informatique en particulier le développement informatique.
 
-❗ **ACTUELLEMENT À LA RECHERCHE D'UN EMPLOI.**
+❗ **ACTUELLEMENT EN FORMATION INGENIEUR IA CHEZ OC**
 
 ------------
 💻 Technologies back-end.
