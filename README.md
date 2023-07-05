@@ -4,7 +4,7 @@
 ❗ **ACTUELLEMENT EN FORMATION INGENIEUR IA CHEZ OPENCLASSROOMS**
 
 ------------
-💻 Technologies back-end.
+💻 Technologies :
 
 ⭐ Python, Java, PHP, SQL, Symfony, etc...
 
