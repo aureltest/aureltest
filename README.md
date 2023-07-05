@@ -1,12 +1,12 @@
 # Je suis AurelTest !
-😄 Aurélien, 25 ans, amoureux d'informatique en particulier le développement informatique.
+😄 Aurélien, 27 ans, amoureux d'informatique et globalement de nouvelles technologies.
 
 ❗ **ACTUELLEMENT EN FORMATION INGENIEUR IA CHEZ OC**
 
 ------------
 💻 Technologies back-end.
 
-⭐ C#, Java, PHP, SQL, Symfony, etc...
+⭐ Python, Java, PHP, SQL, Symfony, etc...
 
 ------------
 
