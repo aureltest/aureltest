@@ -1,7 +1,7 @@
 # Je suis AurelTest !
 😄 Aurélien, 27 ans, amoureux d'informatique et plus généralement des nouvelles technologies.
 
-❗ **ACTUELLEMENT EN FORMATION INGENIEUR IA CHEZ OpenClassrooms**
+❗ **ACTUELLEMENT EN FORMATION INGENIEUR IA CHEZ OPENCLASSROOMS**
 
 ------------
 💻 Technologies back-end.
