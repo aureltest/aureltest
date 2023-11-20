@@ -6,7 +6,7 @@
 ------------
 💻 Technologies :
 
-⭐ Python (Numpy, Pandas, Scikit-learn, Keras, etc...)
+⭐ Python (Numpy, Pandas, Scikit-learn, Keras, etc...)  
 PHP, SQL, Symfony, Java
 
 ------------
