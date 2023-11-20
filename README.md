@@ -1,12 +1,13 @@
 # Je suis AurelTest !
-😄 Aurélien, 27 ans, amoureux d'informatique et plus généralement des nouvelles technologies.
+😄 Aurélien, 27 ans, passionné d'informatique et plus généralement de nouvelles technologies.
 
 ❗ **ACTUELLEMENT EN FORMATION INGENIEUR IA CHEZ OPENCLASSROOMS**
 
 ------------
 💻 Technologies :
 
-⭐ Python, Java, PHP, SQL, Symfony, etc...
+⭐ Python (Numpy, Pandas, Scikit-learn, Keras, etc...)
+PHP, SQL, Symfony, Java
 
 ------------
 
