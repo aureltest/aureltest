@@ -11,4 +11,4 @@ PHP, SQL, Symfony, Java
 
 ------------
 
-🌐 Accéder à mon site en cliquant [ici](http://www.aureltest.fr "ici").
+🌐 Accéder à mon site en cliquant [ici](https://aurel-test.fr).
