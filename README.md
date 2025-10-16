@@ -539,11 +539,11 @@ CI/CD • Model Serving • API Deployment
 
 ## 🚀 Actuellement
 
-🔭 **Je travaille sur**: De l'analyse d'émission spectroscopique (LIBS)
-🌱 **J'apprends**: Actuellement j'apprends à utiliser le ROS
-👯 **Je cherche à collaborer sur**: Projets open-source en IA/ML  
-💬 **Demandez-moi à propos de**: PyTorch, Computer Vision, GANs, ML deployment  
-⚡ **Fun fact**: Mon setup inclut 3 écrans, 1 lapin, et beaucoup trop de café ☕
+🔭 **Je travaille sur**: De l'analyse d'émission spectroscopique (LIBS)  
+🌱 **J'apprends**: Actuellement j'apprends à utiliser le ROS  
+👯 **Je cherche à collaborer sur**: Projets open-source en IA/ML    
+💬 **Demandez-moi à propos de**: PyTorch, Computer Vision, GANs, ML deployment    
+⚡ **Fun fact**: Mon setup inclut 3 écrans, 1 lapin, et beaucoup trop de café ☕  
 
 ---
 
