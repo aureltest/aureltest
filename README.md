@@ -12,7 +12,7 @@ Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist et Ingénieur IA passion
 
 ## 🎯 À Propos
 
-Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences techniques solides en Data Science avec une passion pour résoudre des problèmes complexes grâce à l'IA. Mon portfolio inclut des projets variés allant de la **génération d'images** au **tracking de mains en temps réel**, en passant par l'**analyse spectroscopique** et la **classification d'œuvres d'art**.
+Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences techniques solides en Data Science avec une passion pour résoudre des problèmes complexes grâce à l'IA. Mon portfolio inclut des projets variés allant de la **génération d'images** au **tracking de mains en temps réel**, en passant par l'**analyse spectroscopique** et la **classification de données visuelles**.
 
 ---
 
@@ -25,6 +25,7 @@ Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences
 - **Convolutional Neural Networks (CNNs)**: Classification, détection, segmentation
 - **Transfer Learning**: Fine-tuning de modèles pré-entraînés (CLIP, ResNet, VGG, BERT)
 - **Transformers**: BERT, GPT, Vision Transformers (ViT)
+- **Auto-encoder**: , AE, VAE, CVAE
 
 **Computer Vision Avancée**
 - Classification d'images multi-classes
