@@ -17,10 +17,10 @@ Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences
 ---
 
 ## 💼 Expertise & Compétences
-
-### 🤖 Intelligence Artificielle & Deep Learning
-
-**Architectures de Réseaux de Neurones**
+<details>
+### <summary>🤖 Intelligence Artificielle & Deep Learning</summary>
+  ```
+  **Architectures de Réseaux de Neurones**
 - **Generative Adversarial Networks (GANs)**: DCGAN, Conditional GANs
 - **Convolutional Neural Networks (CNNs)**: Classification, détection, segmentation
 - **Transfer Learning**: Fine-tuning de modèles pré-entraînés (CLIP, ResNet, VGG, BERT)
@@ -46,6 +46,11 @@ Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences
 - Réduction dimensionnelle (t-SNE, UMAP, PCA)
 - Recherche de similarité avec FAISS
 - Clustering dans l'espace latent
+  ```
+</details>
+
+
+
 
 ### 📊 Data Science & Machine Learning Classique
 
@@ -164,84 +169,6 @@ Microsoft Azure ML • AWS (basics)
 Docker • Kubernetes (basics)
 CI/CD • Model Serving • API Deployment
 ```
-
----
-
-## 📚 Formation & Certifications
-
-### 🎓 Diplômes
-**Ingénieur Intelligence Artificielle** - OpenClassrooms (2022-2024)
-- Certification RNCP Niveau 7 (Bac+5) - "Data Scientist"
-- 10 projets professionnalisants validés
-- Compétences: ML, DL, Computer Vision, NLP, MLOps, Cloud Azure
-
-### 📜 Certifications Techniques
-- **Machine Learning** - Expertise en algorithmes supervisés/non supervisés
-- **Deep Learning** - CNNs, GANs, Transformers, Transfer Learning
-- **Computer Vision** - Classification, détection, segmentation, génération
-- **NLP** - Traitement du langage, embeddings, transformers
-- **Cloud Computing** - Microsoft Azure ML, déploiement de modèles
-
-### 🔧 Développement Web & Software Engineering
-- **Full-Stack Development** - Python (Flask, Django), PHP (Symfony)
-- **Bases de Données** - SQL, MySQL, PostgreSQL, Neo4j, PowerBI
-- **DevOps** - Git, Docker, CI/CD pipelines
-- **APIs** - RESTful, FastAPI, microservices
-
-### 📖 Auto-formation Continue
-- Veille technologique active sur les dernières avancées IA
-- Lecture de papers de recherche (arXiv, NeurIPS, CVPR, ICML)
-- Expérimentation avec les modèles émergents (Diffusion Models, LLMs, Vision Transformers)
-
----
-
-## 🎯 Domaines d'Application
-
-### 🖼️ Computer Vision
-- Classification d'images multi-classes
-- Détection d'objets (YOLO, Faster R-CNN)
-- Segmentation sémantique et d'instances
-- Génération d'images (GANs, Diffusion Models)
-- Hand/Pose tracking temps réel
-- Analyse d'œuvres d'art et patrimoine culturel
-
-### 📝 Natural Language Processing
-- Classification et catégorisation de textes
-- Analyse de sentiment et détection d'opinions
-- Named Entity Recognition (NER)
-- Chatbots et assistants conversationnels
-- Résumé automatique de textes
-- Détection de bad buzz sur réseaux sociaux
-
-### 🛍️ Recommender Systems
-- Filtrage collaboratif (User-based, Item-based)
-- Content-based filtering
-- Hybrid recommendation systems
-- Cold start problem solutions
-- Personnalisation e-commerce et contenu
-
-### 👥 Customer Analytics & Business Intelligence
-- Segmentation client (RFM, clustering)
-- Prédiction de churn et rétention
-- Customer Lifetime Value (CLV)
-- Scoring et credit risk assessment
-- A/B Testing et optimisation
-- Tableaux de bord et dataviz
-
-### 🔬 Applications Scientifiques
-- Spectroscopie computationnelle (LIBS)
-- Analyse de signaux physiques
-- Classification de données haute dimensionnalité
-- Traitement de données chimiques/physiques
-- Machine Learning pour sciences expérimentales
-
-### 🌐 Web Applications & APIs
-- Développement full-stack Python/PHP
-- APIs RESTful pour modèles ML
-- Déploiement de modèles en production
-- Applications web avec Flask/Django
-- Microservices et architecture cloud
-
 ---
 
 ## 💡 Centres d'Intérêt Tech
