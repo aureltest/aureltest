@@ -20,32 +20,34 @@ Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences
 <details>
 ### <summary>🤖 Intelligence Artificielle & Deep Learning</summary>
   ```
-  **Architectures de Réseaux de Neurones**
-- **Generative Adversarial Networks (GANs)**: DCGAN, Conditional GANs
-- **Convolutional Neural Networks (CNNs)**: Classification, détection, segmentation
-- **Transfer Learning**: Fine-tuning de modèles pré-entraînés (CLIP, ResNet, VGG, BERT)
-- **Transformers**: BERT, GPT, Vision Transformers (ViT)
-- **Auto-encoder**: , AE, VAE, CVAE
+  **Architectures de Réseaux de Neurones**  
+  
+- **Generative Adversarial Networks (GANs)**: DCGAN, Conditional GANs  
+- **Convolutional Neural Networks (CNNs)**: Classification, détection, segmentation  
+- **Transfer Learning**: Fine-tuning de modèles pré-entraînés (CLIP, ResNet, VGG, BERT)  
+- **Transformers**: BERT, GPT, Vision Transformers (ViT)  
+- **Auto-encoder**: , AE, VAE, CVAE  
 
-**Computer Vision Avancée**
-- Classification d'images multi-classes
-- Détection et tracking d'objets en temps réel
-- Génération d'images synthétiques (GANs)
-- Segmentation sémantique
-- Analyse et clustering d'œuvres d'art
-- Hand tracking et pose estimation
+**Computer Vision Avancée**  
+- Classification d'images multi-classes  
+- Détection et tracking d'objets en temps réel  
+- Génération d'images synthétiques (GANs)  
+- Segmentation sémantique  
+- Analyse et clustering d'œuvres d'art  
+- Hand tracking et pose estimation  
 
-**Natural Language Processing**
-- Traitement et classification de textes
-- Analyse de sentiment et détection de bad buzz
-- Embeddings textuels (Word2Vec, BERT, sentence-transformers)
-- Named Entity Recognition (NER)
+**Natural Language Processing**  
+- Traitement et classification de textes  
+- Analyse de sentiment et détection de bad buzz  
+- Embeddings textuels (Word2Vec, BERT, sentence-transformers)  
+- Named Entity Recognition (NER)  
 
-**Apprentissage Contrastif & Embeddings**
-- Supervised Contrastive Learning
-- Réduction dimensionnelle (t-SNE, UMAP, PCA)
-- Recherche de similarité avec FAISS
+**Apprentissage Contrastif & Embeddings**  
+- Supervised Contrastive Learning  
+- Réduction dimensionnelle (t-SNE, UMAP, PCA)  
+- Recherche de similarité avec FAISS  
 - Clustering dans l'espace latent
+- 
   ```
 </details>
 
