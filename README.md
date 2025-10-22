@@ -18,7 +18,7 @@ Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences
 
 ## 💼 Expertise & Compétences
 <details>
-### <summary>🤖 Intelligence Artificielle & Deep Learning</summary>
+ <summary>### 🤖 Intelligence Artificielle & Deep Learning</summary>
   ```
   **Architectures de Réseaux de Neurones**  
   
