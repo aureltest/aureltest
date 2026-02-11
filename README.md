@@ -1,6 +1,6 @@
 # Aurélien - Data Scientist & AI Engineer
 
-Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist et Ingénieur IA passionné par l'intelligence artificielle et plus largement les nouvelles technologies.
+Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist passionné par l'informatique et plus largement les nouvelles technologies.
 
 [![Website](https://img.shields.io/badge/Website-aurel--test.fr-blue?style=flat-square)](https://aurel-test.fr)
 [![GitHub followers](https://img.shields.io/github/followers/aureltest?style=flat-square&logo=github)](https://github.com/aureltest)
