@@ -1,4 +1,4 @@
-# Aurélien - Data Scientist & AI Engineer
+# Aurélien - Data Scientist
 
 Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist passionné par l'informatique et plus largement les nouvelles technologies.
 
@@ -12,7 +12,7 @@ Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist passionné par l'informa
 
 ## 🎯 À Propos
 
-Ingénieur IA (Bac+5), je conçois des systèmes d'intelligence artificielle de bout en bout.
+Diplômé Ingénieur IA (Bac+5), je conçois des systèmes d'intelligence artificielle de bout en bout.
 
 Je maîtrise l'intégralité du pipeline Data : de l'analyse exploratoire et la préparation des données, à la modélisation et l'entraînement d'algorithmes complexes (NLP, Computer Vision), jusqu'à leur déploiement sur le Cloud.
 
