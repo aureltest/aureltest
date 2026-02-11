@@ -1,6 +1,6 @@
 # Aurélien - Data Scientist & AI Engineer
 
-Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist et Ingénieur IA passionné par l'intelligence artificielle et les nouvelles technologies. Je développe des solutions innovantes en Machine Learning, Deep Learning et Computer Vision, avec une expertise particulière en **GANs**, **Computer Vision** et **analyse de données scientifiques**.
+Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist et Ingénieur IA passionné par l'intelligence artificielle et plus largement les nouvelles technologies.
 
 [![Website](https://img.shields.io/badge/Website-aurel--test.fr-blue?style=flat-square)](https://aurel-test.fr)
 [![GitHub followers](https://img.shields.io/github/followers/aureltest?style=flat-square&logo=github)](https://github.com/aureltest)
@@ -12,7 +12,11 @@ Bonjour ! Je suis **Aurélien**, 29 ans, Data Scientist et Ingénieur IA passion
 
 ## 🎯 À Propos
 
-Diplômé **Ingénieur IA** (Bac+5, OpenClassrooms), je combine des compétences techniques solides en Data Science avec une passion pour résoudre des problèmes complexes grâce à l'IA. Mon portfolio inclut des projets variés allant de la **génération d'images** au **tracking de mains en temps réel**, en passant par l'**analyse spectroscopique** et la **classification de données visuelles**.
+Ingénieur IA (Bac+5), je conçois des systèmes d'intelligence artificielle de bout en bout.
+
+Je maîtrise l'intégralité du pipeline Data : de l'analyse exploratoire et la préparation des données, à la modélisation et l'entraînement d'algorithmes complexes (NLP, Computer Vision), jusqu'à leur déploiement sur le Cloud.
+
+Mon portfolio illustre cette capacité à transformer des problématiques brutes en solutions industrielles fonctionnelles et scalables.
 
 ---
 
